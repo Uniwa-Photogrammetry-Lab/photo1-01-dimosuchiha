@@ -3,9 +3,11 @@
 ##23391011
 #4 ΕΞΑΜΗΝΟ
 # :wave: The Basics of GitHub 
-
-## 🤓 Course overview and learning outcomes 
-
+# 2 Εργασία στη φωτογραμμετρία
+## ΚΑΡΟΠΟΥΛΟΣ ΔΗΜΟΣΘΕΝΗΣ ΠΑΠΑΔΑΚΗΣ ΑΝΤΩΝΗΣ ΚΥΡΟΔΗΜΟΣ ΠΑΝΤΕΛΕΗΜΩΝ
+## 23391011 23391058 23391019
+##  geo23391011@uniwa.gr geo23391058@uniwa.gr geo23391019@uniwa.gr
+4 ΕΞΑΜΗΝΟ
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
